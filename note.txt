@@ -1,0 +1,12 @@
+#Import python codewars testing framework
+1. clone the project outside
+git clone https://github.com/codewars/python-test-framework.git
+
+2. go to python venv
+source venv/Scripts/activate
+
+3. install the module
+python setup.py install
+
+4. delete the imported framework (not needed further)
+
